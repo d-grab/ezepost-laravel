@@ -1,0 +1,68 @@
+/* Dashboard */
+.box-shadow {
+    box-shadow: 2px 2px 9px -4px black;
+}
+
+.total_customers {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.count_customer {
+    background: #13bdff;
+    padding: 2px 10px;
+    border-radius: 10px;
+    color: white;
+    vertical-align: middle;
+}
+
+/* customer profile */
+.heading_customer {
+    text-align: center;
+    font-size: 21px;
+    font-weight: 600;
+}
+
+/* customer edit */
+.btn-primary {
+    background-color: #5e31ff !important;
+    padding: 4px 15px;
+    border-radius: 20px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.w-44 {
+    width: 44px !important;
+}
+.btn-danger-manual {
+    padding: 12px 24px;
+    border-radius: 4px;
+    background-color: #e3342f;
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+    white-space: nowrap;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn-danger-manual:hover{
+    background-color: rgb(255, 13, 0);
+}
+
+.btn-info-manual {
+    padding: 12px 24px;
+    border-radius: 4px;
+    background-color: #034e25;
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+    white-space: nowrap;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn-info-manual:hover{
+    background-color: #0bb335;
+}
